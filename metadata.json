@@ -1,0 +1,6 @@
+{
+  "name": "SmartMoney - Intelligent Financial Control & Wealth Management",
+  "description": "Unified financial control platform with salary budgeting, protected vaults, expense control, subscriptions audit, analytics, and an AI financial assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
